@@ -53,3 +53,12 @@ The server uses Docker to create isolated containers for different applications.
 - Hands-on learning of cloud-like deployment, container management, networking, and system administration.
 
 This project demonstrates how a small-scale device like Raspberry Pi can be transformed into a multi-service, self-hosted server using Docker, providing practical experience in DevOps, cloud services, and system customization.
+
+
+## Demo Images
+
+Below are some screenshots demonstrating the setup and usage of the self-hosted Raspberry Pi server with Docker:
+
+[demo image](https://github.com/user-attachments/assets/9399cd81-b69f-4f5c-8ff0-d9cb615e14b1)
+[demo image](https://github.com/user-attachments/assets/7aa2c2e0-a384-4df2-a0b5-b99bcb443a16)
+[demo image](https://github.com/user-attachments/assets/0425413f-3c40-47ff-80b3-31d3b2616c3b)
