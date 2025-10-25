@@ -28,7 +28,7 @@ The server uses Docker to create isolated containers for different applications.
 - Docker provides containerization, allowing each application to run in isolation with its own dependencies.  
 - This approach ensures that multiple services like Pi-hole, Jellyfin, and Memos can run on the same Raspberry Pi without interfering with each other.  
 - Docker also simplifies updates, scaling, and management of these applications.  
-- Caasa OS was used as the host operating system, as it supports Docker out-of-the-box and provides network management capabilities for seamless integration with containers.  
+- Casa OS was used as the host operating system, as it supports Docker out-of-the-box and provides network management capabilities for seamless integration with containers.  
 - Docker makes it possible to experiment with multiple instances, optimize resource allocation, and maintain a clean, organized environment for each service.
 
 ## Storage Configuration
